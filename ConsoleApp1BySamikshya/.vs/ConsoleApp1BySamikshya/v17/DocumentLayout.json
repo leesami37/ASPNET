@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686DDE1B-117F-4D6E-BAC8-4A0561610E87}|ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\consoleapp1bysamikshya\\consoleapp1bysamikshya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686DDE1B-117F-4D6E-BAC8-4A0561610E87}|ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj|solutionrelative:consoleapp1bysamikshya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686DDE1B-117F-4D6E-BAC8-4A0561610E87}|ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\consoleapp1bysamikshya\\consoleapp1bysamikshya\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686DDE1B-117F-4D6E-BAC8-4A0561610E87}|ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj|solutionrelative:consoleapp1bysamikshya\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686DDE1B-117F-4D6E-BAC8-4A0561610E87}|ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\consoleapp1bysamikshya\\consoleapp1bysamikshya\\consoleapp1bysamikshya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{686DDE1B-117F-4D6E-BAC8-4A0561610E87}|ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj|solutionrelative:consoleapp1bysamikshya\\consoleapp1bysamikshya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1BySamikshya.csproj",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj",
+              "RelativeToolTip": "ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T06:23:15.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya\\CRUD.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1BySamikshya\\CRUD.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya\\CRUD.cs",
+              "RelativeToolTip": "ConsoleApp1BySamikshya\\CRUD.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:22:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1BySamikshya\\Program.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\ConsoleApp1BySamikshya\\ConsoleApp1BySamikshya\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1BySamikshya\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:19:14.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

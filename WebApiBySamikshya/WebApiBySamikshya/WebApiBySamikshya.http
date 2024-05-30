@@ -1,0 +1,6 @@
+@WebApiBySamikshya_HostAddress = http://localhost:5001
+
+GET {{WebApiBySamikshya_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

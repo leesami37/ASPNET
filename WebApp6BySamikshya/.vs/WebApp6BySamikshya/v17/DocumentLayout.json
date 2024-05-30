@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\hiddenfieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\hiddenfieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\querystringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\querystringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\cookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\cookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\httpcontextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\httpcontextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\tempdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\tempdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\views\\httpcontext\\httpcontextpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\views\\httpcontext\\httpcontextpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\webapp6bysamikshya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\webapp6bysamikshya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\views\\querystring\\getquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\views\\querystring\\getquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp6bysamikshya\\webapp6bysamikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32294197-ECF8-4E3E-8520-129CB1BB781D}|WebApp6BySamikshya\\WebApp6BySamikshya.csproj|solutionrelative:webapp6bysamikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\SessionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Models\\User.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:25:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpContextController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\HttpContextController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\HttpContextController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\HttpContextController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\HttpContextController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryStringController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\QueryStringController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\QueryStringController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\QueryStringController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\QueryStringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:35.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HiddenFieldController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\HiddenFieldController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\HiddenFieldController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\HiddenFieldController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\HiddenFieldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CookiesController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\CookiesController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\CookiesController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\CookiesController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\CookiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:23:49.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp6BySamikshya\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:27:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp6BySamikshya\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:51:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TempDataController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\TempDataController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\TempDataController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\TempDataController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\TempDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:57.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HttpContextPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\HttpContext\\HttpContextPage.cshtml",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Views\\HttpContext\\HttpContextPage.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\HttpContext\\HttpContextPage.cshtml",
+              "RelativeToolTip": "WebApp6BySamikshya\\Views\\HttpContext\\HttpContextPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:39:18.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:24:10.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp6BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:27:00.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebApp6BySamikshya.csproj",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\WebApp6BySamikshya.csproj",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\WebApp6BySamikshya.csproj",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\WebApp6BySamikshya.csproj",
+              "RelativeToolTip": "WebApp6BySamikshya\\WebApp6BySamikshya.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T07:21:06.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApp6BySamikshya\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:25:07.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetQueryString.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\QueryString\\GetQueryString.cshtml",
+              "RelativeDocumentMoniker": "WebApp6BySamikshya\\Views\\QueryString\\GetQueryString.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp6BySamikshya\\WebApp6BySamikshya\\Views\\QueryString\\GetQueryString.cshtml",
+              "RelativeToolTip": "WebApp6BySamikshya\\Views\\QueryString\\GetQueryString.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:26:39.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

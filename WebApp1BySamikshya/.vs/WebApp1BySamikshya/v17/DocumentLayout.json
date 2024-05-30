@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\views\\student\\createstudentrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\views\\student\\createstudentrecord.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\views\\home\\myrazorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\views\\home\\myrazorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|c:\\users\\asus\\source\\repos\\webapp1bysamikshya\\webapp1bysamikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43290486-D701-4DFF-8D2E-80C277B54AED}|WebApp1BySamikshya\\WebApp1BySamikshya.csproj|solutionrelative:webapp1bysamikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp1BySamikshya\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:27:56.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateStudentRecord.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Student\\CreateStudentRecord.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Views\\Student\\CreateStudentRecord.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Student\\CreateStudentRecord.cshtml",
+              "RelativeToolTip": "WebApp1BySamikshya\\Views\\Student\\CreateStudentRecord.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T13:20:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp1BySamikshya\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:44:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyRazorPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Home\\MyRazorPage.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Views\\Home\\MyRazorPage.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Home\\MyRazorPage.cshtml",
+              "RelativeToolTip": "WebApp1BySamikshya\\Views\\Home\\MyRazorPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:43:50.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Models\\Student.cs",
+              "RelativeToolTip": "WebApp1BySamikshya\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:43:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApp1BySamikshya\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:42:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "WebApp1BySamikshya\\Views\\Student\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T13:21:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp1BySamikshya\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:46:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp1BySamikshya\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aSUS\\source\\repos\\WebApp1BySamikshya\\WebApp1BySamikshya\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApp1BySamikshya\\Models\\ErrorViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:42:54.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

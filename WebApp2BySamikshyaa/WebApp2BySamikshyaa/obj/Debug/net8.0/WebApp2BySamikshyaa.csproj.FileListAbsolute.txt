@@ -1,0 +1,7 @@
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.AssemblyInfoInputs.cache
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.AssemblyInfo.cs
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.csproj.CoreCompileInputs.cache
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.RazorAssemblyInfo.cache
+C:\Users\aSUS\source\repos\WebApp2BySamikshyaa\WebApp2BySamikshyaa\obj\Debug\net8.0\WebApp2BySamikshyaa.RazorAssemblyInfo.cs
